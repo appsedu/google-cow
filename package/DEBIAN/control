@@ -5,7 +5,7 @@ Maintainer: google <crash.eddie123@gmail.com>
 Section: utils
 Architecture: all
 Priority: optional
-Depends: xampp
+Depends: xampp (>=7.4.8)
 Homepage: https://code.google.com/archive/p/open-3d-viewer/
 Description: Antigo projeto do Google Cow
  Mostra a anatomia de uma vaca, podendo ver cada sistema como ossos, musculos e outros

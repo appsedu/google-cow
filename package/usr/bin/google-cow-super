@@ -1,0 +1,4 @@
+#!/bin/bash
+
+systemctl stop apache2.service
+/opt/lampp/lampp startapache
