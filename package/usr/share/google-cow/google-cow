@@ -1,7 +1,0 @@
-#!/bin/bash
-
-pkexec google-cow-super
-sleep 1
-xdg-open http://localhost/google-cow/ &
-sleep 1
-xdotool search --sync --onlyvisible --class "Firefox" windowactivate key F11

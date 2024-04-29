@@ -5,8 +5,8 @@ Terminal=false
 Name=3D Viewer of Cow
 Name[pt_BR]=Vaquinha em 3D
 Comment=Old project of google cow
-Comment[pt_BR]=Antigo projeto do Google Cow
-Exec=google-cow %u
-Icon=google-cow
+Comment[pt_BR]=Antigo projeto do Google Labs Cow
+Exec=google-labs-cow
+Icon=google-labs-cow
 Categories=Education;
 

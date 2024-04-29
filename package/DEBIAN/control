@@ -1,11 +1,11 @@
-Package: google-cow
-Version: 0.0.1
-Installed-Size: 85148
-Maintainer: google <crash.eddie123@gmail.com>
-Section: utils
+Package: google-labs-cow
+Version: 0.0.2
+Installed-Size: 85012
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Section: science
 Architecture: all
 Priority: optional
-Depends: xampp (>=7.4.8)
+Depends: python3, xdotool
 Homepage: https://code.google.com/archive/p/open-3d-viewer/
 Description: Antigo projeto do Google Cow
  Mostra a anatomia de uma vaca, podendo ver cada sistema como ossos, musculos e outros

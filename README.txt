@@ -1,1 +1,0 @@
-package/usr/share/google-cow/models/cow_anatomy/README.txt

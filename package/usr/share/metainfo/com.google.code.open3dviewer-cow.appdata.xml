@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component type="desktop">
-  <id>com.github.google.google-cow.desktop</id>
+  <id>com.google.code.open3dviewer-cow.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>Apache-2.0+</project_license>
   <name>3D Viewer of Cow</name>
   <name xml:lang="pt_BR">Vaquinha em 3D</name>
-  <summary>Old project of google cow</summary>
-  <summary xml:lang="pt_BR">Antigo projeto do Google Cow</summary>
+  <summary>Old project of google labs cow</summary>
+  <summary xml:lang="pt_BR">Antigo projeto do Google Labs Cow</summary>
   <description>
     <p>Shows the anatomy of a cow, being able to see each system as bones, muscles and others</p>
     <p xml:lang="pt_BR">Mostra a anatomia de uma vaca, podendo ver cada sistema como ossos, musculos e outros</p>
@@ -19,16 +19,15 @@
     <screenshot type="default">
       <caption>Screenshot of app</caption>
       <caption xml:lang="pt_BR">Tela do App</caption>
-      <image>https://raw.githubusercontent.com/appsedu/google-cow/master/screenshot.png</image>
+      <image>https://raw.githubusercontent.com/appsedu/google-labs-cow/master/screenshot.png</image>
     </screenshot>
   </screenshots>
   <project_group>open-3d-viewer</project_group>
   <provides>
-    <binary>google-cow</binary>
+    <binary>google-labs-cow</binary>
   </provides>
   <releases>
     <release version="0.0.1" date="2020-08-08"/>
   </releases>
   <content_rating type="oars-1.0" />
 </component>
-
